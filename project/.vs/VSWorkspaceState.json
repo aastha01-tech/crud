@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Edit",
+    "\\src\\components\\Login",
+    "\\src\\components\\Register",
+    "\\src\\components\\User"
+  ],
+  "SelectedNode": "\\src\\components\\Edit\\Edit.jsx",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,9 @@
+body {
+}
+.login-background{
+    background:url('../../../src/images/login-bg.jpg');
+    background-size:cover;
+}
+.login-logo{
+    margin-left:100px;
+}
